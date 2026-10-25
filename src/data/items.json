@@ -1,0 +1,213 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+    "data": [
+        {
+            "name": "Progressive Level Cap",
+            "category": ["Level Caps"],
+            "classification_count": {
+                "progression": 18,
+                "useful": 5
+            }
+        },
+        {
+            "name": "Accessory Slot",
+            "category": ["Equipment"],
+            "classification_count": {
+                "progression": 3,
+                "useful": 1
+            }
+        },
+        {
+            "name": "Gem Slot",
+            "category": ["Equipment"],
+            "classification_count": {
+                "progression": 3,
+                "useful": 1
+            }
+        },
+        {
+            "name": "Master Skill Slot",
+            "category": ["Equipment"],
+            "classification_count": {
+                "progression": 3,
+                "useful": 1
+            }
+        },
+        {
+            "name": "Master Art Slot",
+            "category": ["Equipment"],
+            "classification_count": {
+                "progression": 3,
+                "useful": 1
+            }
+        },
+        {
+            "name": "Hero in Party",
+            "category": ["Mechanics"],
+            "classification_count": {
+                "progression": 1,
+                "useful": 1
+            },
+            "_comment": "Allows player to have hero companion active"
+        },
+        {
+            "name": "Chain Attack",
+            "category": ["Mechanics"],
+            "classification_count": {
+                "progression": 1,
+                "useful": 1
+            },
+            "_comment": "Enables chain attack mechanic"
+        },
+        {
+            "name": "Interlink",
+            "category": ["Mechanics"],
+            "classification_count": {
+                "progression": 1,
+                "useful": 1
+            },
+            "_comment": "Enables Interlink mechanic"
+        },
+        {
+            "name": "Unlimited Sword",
+            "category": ["Mechanics"],
+            "classification_count": {
+                "progression": 1,
+                "useful": 1
+            },
+            "_comment": "Enables Unlimited Sword Talent Art"
+        },
+        {
+            "name": "Fornis Region - Full",
+            "category": ["Regions"],
+            "classification_count": {
+                "progression": 1,
+                "useful": 1
+            }
+        },
+        {
+            "name": "Fornis Region - Torus Hollow",
+            "category": ["Regions"],
+            "classification_count": {
+                "progression": 1,
+                "useful": 1
+            }
+        },
+        {
+            "name": "Pentelas Region - Full",
+            "category": ["Regions"],
+            "classification_count": {
+                "progression": 1,
+                "useful": 1
+            }
+        },
+        {
+            "name": "Keves Castle Region - Syra Hovering Reefs",
+            "category": ["Regions"],
+            "classification_count": {
+                "progression": 1,
+                "useful": 1
+            }
+        },
+        {
+            "name": "Keves Castle Region - Castle",
+            "category": ["Regions"],
+            "classification_count": {
+                "progression": 1,
+                "useful": 1
+            }
+        },
+        {
+            "name": "Cadensia Region - Full",
+            "category": ["Regions"],
+            "classification_count": {
+                "progression": 1,
+                "useful": 1
+            }
+        },
+        {
+            "name": "Swordmarch - Great Sword",
+            "category": ["Regions"],
+            "classification_count": {
+                "progression": 1,
+                "useful": 1
+            }
+        },
+        {
+            "name": "Aetia Region - Upper",
+            "category": ["Regions"],
+            "classification_count": {
+                "progression": 1,
+                "useful": 1
+            }
+        },
+        {
+            "name": "Aetia Region - Elgares Depths",
+            "category": ["Regions"],
+            "classification_count": {
+                "progression": 1,
+                "useful": 1
+            }
+        },
+        {
+            "name": "Pentelas Region - Low Maktha Wildwood",
+            "category": ["Regions"],
+            "classification_count": {
+                "progression": 1,
+                "useful": 1
+            }
+        },
+        {
+            "name": "Origin - Interior",
+            "category": ["Regions"],
+            "classification_count": {
+                "progression": 1,
+                "useful": 1
+            }
+        },
+        {
+            "name": "Time Attack",
+            "category": ["Regions"],
+            "classification_count": {
+                "progression": 1,
+                "useful": 1
+            }
+        },
+        {
+            "name": "Classes - Row 1",
+            "category": ["Classes"],
+            "progression": true,
+            "_comment": "Allow use of heros and classes from the first row in the heros selection menu"
+        },
+        {
+            "name": "Classes - Row 2",
+            "category": ["Classes"],
+            "progression": true,
+            "_comment": "Allow use of heros and classes from the second row in the heros selection menu"
+        },
+        {
+            "name": "Classes - Row 3",
+            "category": ["Classes"],
+            "progression": true,
+            "_comment": "Allow use of heros and classes from the third row in the heros selection menu"
+        },
+        {
+            "name": "Classes - Row 4",
+            "category": ["Classes"],
+            "progression": true,
+            "_comment": "Allow use of heros and classes from the fourth row in the heros selection menu"
+        },
+        {
+            "name": "Classes - Row 5",
+            "category": ["Classes"],
+            "progression": true,
+            "_comment": "Allow use of heros and classes from the fifth row in the heros selection menu"
+        },
+        {
+            "name": "Classes - Row 6",
+            "category": ["Classes"],
+            "progression": true,
+            "_comment": "Allow use of heros and classes from the sixth row in the heros selection menu"
+        }
+    ]
+}

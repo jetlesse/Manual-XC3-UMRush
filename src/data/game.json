@@ -1,0 +1,12 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+    "game": "XC3UMRush",
+    "creator": "Jetlesse",
+
+    "filler_item_name": "Mote of light",
+
+    "starting_items": [],
+
+    "death_link": false,
+    "starting_index": 1
+}

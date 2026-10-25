@@ -1,0 +1,1041 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+    "data": [
+        {
+            "name": "(Lv 5) Sycophantic Lilith",
+            "region": "Aetia Region - Full",
+            "category": ["Aetia Region - Full"]
+        },
+        {
+            "name": "(Lv 9) Lapdog Veece",
+            "region": "Aetia Region - Full",
+            "category": ["Aetia Region - Full"]
+        },
+        {
+            "name": "(Lv 12) Indiscreet Gombaba",
+            "region": "Aetia Region - Full",
+            "category": ["Aetia Region - Full"]
+        },
+        {
+            "name": "(Lv 13) Perturbed Bilkin",
+            "region": "Aetia Region - Full",
+            "category": ["Aetia Region - Full"]
+        },
+        {
+            "name": "(Lv 14) Migratory Circe",
+            "region": "Aetia Region - Full",
+            "category": ["Aetia Region - Full"]
+        },
+        {
+            "name": "(Lv 15) Sharpwitted Tracy",
+            "region": "Fornis Region - Full",
+            "category": ["Fornis Region - Full"]
+        },
+        {
+            "name": "(Lv 16) Hazardous Jarrahed",
+            "region": "Fornis Region - Full",
+            "requires": "|Progressive Level Cap:1|",
+            "category": ["Fornis Region - Full"]
+        },
+        {
+            "name": "(Lv 17) Rambler Curalie",
+            "region": "Fornis Region - Full",
+            "requires": "|Progressive Level Cap:1|",
+            "category": ["Fornis Region - Full"]
+        },
+        {
+            "name": "(Lv 19) Unruffled Narrah",
+            "region": "Fornis Region - Full",
+            "requires": "|Progressive Level Cap:1|",
+            "category": ["Fornis Region - Full"]
+        },
+        {
+            "name": "(Lv 20) Perspicacious Oldar",
+            "region": "Fornis Region - Full",
+            "requires": "|Progressive Level Cap:1|",
+            "category": ["Fornis Region - Full"]
+        },
+        {
+            "name": "(Lv 21) Househunter Carly",
+            "region": "Aetia Region - Full",
+            "requires": "|Progressive Level Cap:2|",
+            "category": ["Aetia Region - Full"]
+        },
+        {
+            "name": "(Lv 22) Scornful Daria",
+            "region": "Fornis Region - Full",
+            "requires": "|Progressive Level Cap:2|",
+            "category": ["Fornis Region - Full"]
+        },
+        {
+            "name": "(Lv 22) Dapper Sepiar",
+            "region": "Fornis Region - Full",
+            "requires": "|Progressive Level Cap:2|",
+            "category": ["Fornis Region - Full"]
+        },
+        {
+            "name": "(Lv 23) Tenderling Rumi",
+            "region": "Fornis Region - Full",
+            "requires": "|Progressive Level Cap:2|",
+            "category": ["Fornis Region - Full"]
+        },
+        {
+            "name": "(Lv 23) Hedonist Tirkin",
+            "region": "Fornis Region - Full",
+            "requires": "|Progressive Level Cap:2|",
+            "category": ["Fornis Region - Full"]
+        },
+        {
+            "name": "(Lv 24) Repulsive Deepus",
+            "region": "Aetia Region - Full",
+            "requires": "|Progressive Level Cap:2|",
+            "category": ["Aetia Region - Full"]
+        },
+        {
+            "name": "(Lv 24) Gushing Masquin",
+            "region": "Aetia Region - Full",
+            "requires": "|Progressive Level Cap:2|",
+            "category": ["Aetia Region - Full"]
+        },
+        {
+            "name": "(Lv 24) Wraithfin Segna",
+            "region": "Fornis Region - Full",
+            "requires": "|Progressive Level Cap:2|",
+            "category": ["Fornis Region - Full"]
+        },
+        {
+            "name": "(Lv 25) Stoneclipper Gorse",
+            "region": "Fornis Region - Full",
+            "requires": "|Progressive Level Cap:2|",
+            "category": ["Fornis Region - Full"]
+        },
+        {
+            "name": "(Lv 25) Heretical Saurow",
+            "region": "Fornis Region - Full",
+            "requires": "|Progressive Level Cap:2|",
+            "category": ["Fornis Region - Full"]
+        },
+        {
+            "name": "(Lv 26) Sensitive Catullus",
+            "region": "Aetia Region - Full",
+            "requires": "|Progressive Level Cap:3|",
+            "category": ["Aetia Region - Full"]
+        },
+        {
+            "name": "(Lv 27) Crystalline DuGarre",
+            "region": "Fornis Region - Full",
+            "requires": "|Progressive Level Cap:3|",
+            "category": ["Fornis Region - Full"]
+        },
+        {
+            "name": "(Lv 27) Raucous Ron",
+            "region": "Pentelas Region - Full",
+            "requires": "|Progressive Level Cap:3|",
+            "category": ["Pentelas Region - Full"]
+        },
+        {
+            "name": "(Lv 28) Shimmering Marcko",
+            "region": "Pentelas Region - Full",
+            "requires": "|Progressive Level Cap:3|",
+            "category": ["Pentelas Region - Full"]
+        },
+        {
+            "name": "(Lv 29) Altruistic Maribel",
+            "region": "Aetia Region - Full",
+            "requires": "|Progressive Level Cap:3|",
+            "category": ["Aetia Region - Full"]
+        },
+        {
+            "name": "(Lv 30) Gallivanter Buckley",
+            "region": "Pentelas Region - Full",
+            "requires": "|Progressive Level Cap:3|",
+            "category": ["Pentelas Region - Full"]
+        },
+        {
+            "name": "(Lv 31) Petrivore Judomar",
+            "region": "Aetia Region - Full",
+            "requires": "|Progressive Level Cap:4|",
+            "category": ["Aetia Region - Full"]
+        },
+        {
+            "name": "(Lv 31) Frollicking Parker",
+            "region": "Pentelas Region - Full",
+            "requires": "|Progressive Level Cap:4|",
+            "category": ["Pentelas Region - Full"]
+        },
+        {
+            "name": "(Lv 32) Budding Francis",
+            "region": "Pentelas Region - Full",
+            "requires": "|Progressive Level Cap:4|",
+            "category": ["Pentelas Region - Full"]
+        },
+        {
+            "name": "(Lv 34) Terrorbird Zieger",
+            "region": "Fornis Region - Full",
+            "requires": "|Progressive Level Cap:4|",
+            "category": ["Fornis Region - Full"]
+        },
+        {
+            "name": "(Lv 35) Phantasmagorical Rist",
+            "region": "Pentelas Region - Full",
+            "requires": "|Progressive Level Cap:4|",
+            "category": ["Pentelas Region - Full"]
+        },
+        {
+            "name": "(Lv 36) Soaring Virion",
+            "region": "Pentelas Region - Full",
+            "requires": "|Progressive Level Cap:5|",
+            "category": ["Pentelas Region - Full"]
+        },
+        {
+            "name": "(Lv 37) Massive Georges",
+            "region": "Pentelas Region - Full",
+            "requires": "|Progressive Level Cap:5|",
+            "category": ["Pentelas Region - Full"]
+        },
+        {
+            "name": "(Lv 38) Craven Piggard",
+            "region": "Keves Castle Region - Syra Hovering Reefs",
+            "requires": "|Progressive Level Cap:5|",
+            "category": ["Keves Castle Region - Syra Hovering Reefs"]
+        },
+        {
+            "name": "(Lv 39) Ambusher Tirion",
+            "region": "Keves Castle Region - Syra Hovering Reefs",
+            "requires": "|Progressive Level Cap:5|",
+            "category": ["Keves Castle Region - Syra Hovering Reefs"]
+        },
+        {
+            "name": "(Lv 40) Farseer Pirtett",
+            "region": "Fornis Region - Full",
+            "requires": "|Progressive Level Cap:5|",
+            "category": ["Fornis Region - Full"]
+        },
+        {
+            "name": "(Lv 40) Blazing Karlos",
+            "region": "Keves Castle Region - Syra Hovering Reefs",
+            "requires": "|Progressive Level Cap:5|",
+            "category": ["Keves Castle Region - Syra Hovering Reefs"]
+        },
+        {
+            "name": "(Lv 41) Mobile Vespa",
+            "region": "Keves Castle Region - Castle",
+            "requires": "|Progressive Level Cap:6|",
+            "category": ["Keves Castle Region - Castle"]
+        },
+        {
+            "name": "(Lv 42) Spectral Remy",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:6|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 42) The Executioners",
+            "region": "Keves Castle Region - Castle",
+            "requires": "|Progressive Level Cap:6|",
+            "category": ["Keves Castle Region - Castle"]
+        },
+        {
+            "name": "(Lv 43) Unobtrusive Liggy",
+            "region": "Fornis Region - Full",
+            "requires": "|Progressive Level Cap:6|",
+            "category": ["Fornis Region - Full"]
+        },
+        {
+            "name": "(Lv 43) Night-Stalker Volodya",
+            "requires": "|Progressive Level Cap:6|",
+            "category": ["Fornis Region - Torus Hollow"]
+        },
+        {
+            "name": "(Lv 43) The Black Triad",
+            "region": "Keves Castle Region - Castle",
+            "requires": "|Progressive Level Cap:6|",
+            "category": ["Keves Castle Region - Castle"]
+        },
+        {
+            "name": "(Lv 44) Profound Hodzuki",
+            "region": "Fornis Region - Full",
+            "requires": "|Progressive Level Cap:6|",
+            "category": ["Fornis Region - Full"]
+        },
+        {
+            "name": "(Lv 45) Puzzled Raquinu",
+            "region": "Fornis Region - Full",
+            "requires": "|Progressive Level Cap:6|",
+            "category": ["Fornis Region - Full"]
+        },
+        {
+            "name": "(Lv 45) Dimwitted Tirkin",
+            "region": "Pentelas Region - Full",
+            "requires": "|Progressive Level Cap:6|",
+            "category": ["Pentelas Region - Full"]
+        },
+        {
+            "name": "(Lv 46) Villainous Igna",
+            "region": "Fornis Region - Full",
+            "requires": "|Progressive Level Cap:7|",
+            "category": ["Fornis Region - Full"]
+        },
+        {
+            "name": "(Lv 47) Fineblade Faltaar",
+            "region": "Swordmarch - Great Sword",
+            "requires": "|Progressive Level Cap:7|",
+            "category": ["Swordmarch - Great Sword"]
+        },
+        {
+            "name": "(Lv 48) Widdershins Raddler",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:7|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 48) Navigator Helios",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:7|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 48) Bushwhacker Farritt",
+            "region": "Pentelas Region - Full",
+            "requires": "|Progressive Level Cap:7|",
+            "category": ["Pentelas Region - Full"]
+        },
+        {
+            "name": "(Lv 48) Besieger Sheritt",
+            "region": "Pentelas Region - Full",
+            "requires": "|Progressive Level Cap:7|",
+            "category": ["Pentelas Region - Full"]
+        },
+        {
+            "name": "(Lv 49) Taskmaster Imperion",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:7|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 49) Intrusive Neville",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:7|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 49) Diabolical Rindolph",
+            "region": "Keves Castle Region - Syra Hovering Reefs",
+            "requires": "|Progressive Level Cap:7|",
+            "category": ["Keves Castle Region - Syra Hovering Reefs"]
+        },
+        {
+            "name": "(Lv 50) Doomfang Caum",
+            "region": "Fornis Region - Full",
+            "requires": "|Progressive Level Cap:7|",
+            "category": ["Fornis Region - Full"]
+        },
+        {
+            "name": "(Lv 50) Gracious Titania",
+            "region": "Pentelas Region - Full",
+            "requires": "|Progressive Level Cap:7|",
+            "category": ["Pentelas Region - Full"]
+        },
+        {
+            "name": "(Lv 51) Phantom Streya",
+            "region": "Aetia Region - Full",
+            "requires": "|Progressive Level Cap:8|",
+            "category": ["Aetia Region - Full"]
+        },
+        {
+            "name": "(Lv 51) Barbed Merod",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:8|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 52) Virtuous Gulkin",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:8|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 53) Well-Plated Zelinka",
+            "region": "Aetia Region - Full",
+            "requires": "|Progressive Level Cap:8|",
+            "category": ["Aetia Region - Full"]
+        },
+        {
+            "name": "(Lv 53) Bloodsucking Elvis",
+            "region": "Pentelas Region - Full",
+            "requires": "|Progressive Level Cap:8|",
+            "category": ["Pentelas Region - Full"]
+        },
+        {
+            "name": "(Lv 54) Crafty Anskey",
+            "region": "Fornis Region - Full",
+            "requires": "|Progressive Level Cap:8|",
+            "category": ["Fornis Region - Full"]
+        },
+        {
+            "name": "(Lv 55) Hornbow Dante",
+            "region": "Keves Castle Region - Syra Hovering Reefs",
+            "requires": "|Progressive Level Cap:8|",
+            "category": ["Keves Castle Region - Syra Hovering Reefs"]
+        },
+        {
+            "name": "(Lv 56) Spiralhorn Baccro",
+            "region": "Aetia Region - Upper",
+            "requires": "|Progressive Level Cap:9|",
+            "category": ["Aetia Region - Upper"]
+        },
+        {
+            "name": "(Lv 56) Galloping Ghuldan",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:9|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 57) Stonehoof Torphan",
+            "region": "Aetia Region - Upper",
+            "requires": "|Progressive Level Cap:9|",
+            "category": ["Aetia Region - Upper"]
+        },
+        {
+            "name": "(Lv 57) Hardshelled Admory",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:9|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 58) Foolhardy Saide",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:9|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 59) Witchwind Kujjat",
+            "region": "Aetia Region - Full",
+            "requires": "|Progressive Level Cap:9|",
+            "category": ["Aetia Region - Full"]
+        },
+        {
+            "name": "(Lv 59) Keen Chicky-Chicky",
+            "region": "Aetia Region - Upper",
+            "requires": "|Progressive Level Cap:9|",
+            "category": ["Aetia Region - Upper"]
+        },
+        {
+            "name": "(Lv 60) Covetous Gerondon",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:9|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 60) Otherworldly Rodsin",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:9|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 61) Timbercorn Cthinos",
+            "region": "Aetia Region - Upper",
+            "requires": "|Progressive Level Cap:10|",
+            "category": ["Aetia Region - Upper"]
+        },
+        {
+            "name": "(Lv 63) Spiky Aurelia",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:10|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 63) Talkative Dirakha",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:10|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 64) Abyssmal Rakshmi",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:10|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 64) Infiltrator Garnach",
+            "region": "Keves Castle Region - Syra Hovering Reefs",
+            "requires": "|Progressive Level Cap:10|",
+            "category": ["Keves Castle Region - Syra Hovering Reefs"]
+        },
+        {
+            "name": "(Lv 64) Protector Revelta",
+            "region": "Keves Castle Region - Syra Hovering Reefs",
+            "requires": "|Progressive Level Cap:10|",
+            "category": ["Keves Castle Region - Syra Hovering Reefs"]
+        },
+        {
+            "name": "(Lv 65) 4 Blades in the Dark",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:10|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 65) Defiled Ishtar",
+            "region": "Origin - Interior",
+            "requires": "|Progressive Level Cap:10|",
+            "category": ["Origin - Interior"]
+        },
+        {
+            "name": "(Lv 65) Aquatic Beasts",
+            "region": "Pentelas Region - Full",
+            "requires": "|Progressive Level Cap:10|",
+            "category": ["Pentelas Region - Full"]
+        },
+        {
+            "name": "(Lv 66) Whirlpool Triumvirate",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:11|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 66) Armbenders",
+            "region": "Origin - Interior",
+            "requires": "|Progressive Level Cap:11|",
+            "category": ["Origin - Interior"]
+        },
+        {
+            "name": "(Lv 67) Sharkblade Nedd (day)",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:11|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 67) Creeping Hameel",
+            "region": "Origin - Interior",
+            "requires": "|Progressive Level Cap:11|",
+            "category": ["Origin - Interior"]
+        },
+        {
+            "name": "(Lv 68) Joyful Nimroog",
+            "region": "Fornis Region - Full",
+            "requires": "|Progressive Level Cap:11|",
+            "category": ["Fornis Region - Full"]
+        },
+        {
+            "name": "(Lv 69) Clinging Azreel",
+            "region": "Origin - Interior",
+            "requires": "|Progressive Level Cap:11|",
+            "category": ["Origin - Interior"]
+        },
+        {
+            "name": "(Lv 69) Pressing Rafeel",
+            "region": "Origin - Interior",
+            "requires": "|Progressive Level Cap:11|",
+            "category": ["Origin - Interior"]
+        },
+        {
+            "name": "(Lv 69) Hollow Ones",
+            "region": "Origin - Interior",
+            "requires": "|Progressive Level Cap:11|",
+            "category": ["Origin - Interior"]
+        },
+        {
+            "name": "(Lv 70) Wicked Wolf Aranqui",
+            "region": "Aetia Region - Full",
+            "requires": "|Progressive Level Cap:11|",
+            "category": ["Aetia Region - Full"]
+        },
+        {
+            "name": "(Lv 71) Sundappled Floria",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:12|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 71) Thaumawolf Bajeek",
+            "region": "Origin - Interior",
+            "requires": "|Progressive Level Cap:12|",
+            "category": ["Origin - Interior"]
+        },
+        {
+            "name": "(Lv 72) Jealous Mizraille",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:12|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 72) Reaping Anteel",
+            "region": "Origin - Interior",
+            "requires": "|Progressive Level Cap:12|",
+            "category": ["Origin - Interior"]
+        },
+        {
+            "name": "(Lv 73) Oceanic Lucera",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:12|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 74) Impish Langobard",
+            "region": "Fornis Region - Full",
+            "requires": "|Progressive Level Cap:12|",
+            "category": ["Fornis Region - Full"]
+        },
+        {
+            "name": "(Lv 75) Demonic Krenolur",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:12|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 75) Naval Gyrus",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:12|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 76) Heroic Gulkin",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:13|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 77) Flyswatter Kamado",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:13|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 77) Seatiger Tridence (night)",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:13|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 78) Ragemaw Tempeldo",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:13|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 78) Spartan Fennick",
+            "region": "Pentelas Region - Low Maktha Wildwood",
+            "requires": "|Progressive Level Cap:13|",
+            "category": ["Pentelas Region - Low Maktha Wildwood"]
+        },
+        {
+            "name": "(Lv 79) Killhappy Brijaidor",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:13|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 80) Fang-King Clavein",
+            "region": "Aetia Region - Elgares Depths",
+            "requires": "|Progressive Level Cap:13|",
+            "category": ["Aetia Region - Elgares Depths"]
+        },
+        {
+            "name": "(Lv 80) Jingoistic Gigantus",
+            "region": "Aetia Region - Full",
+            "requires": "|Progressive Level Cap:13|",
+            "category": ["Aetia Region - Full"]
+        },
+        {
+            "name": "(Lv 80) Slack-Jawed Zephal (storm)",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:13|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 81) Ruthless Grokken",
+            "region": "Fornis Region - Full",
+            "requires": "|Progressive Level Cap:14|",
+            "category": ["Fornis Region - Full"]
+        },
+        {
+            "name": "(Lv 82) Agnian Assassins",
+            "region": "Pentelas Region - Full",
+            "requires": "|Progressive Level Cap:14|",
+            "category": ["Pentelas Region - Full"]
+        },
+        {
+            "name": "(Lv 84) Ravenous Babayaga",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:14|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 85) Seadragoon Melchior",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:14|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 86) Desired Oruria",
+            "region": "Origin - Interior",
+            "requires": "|Progressive Level Cap:15|",
+            "category": ["Origin - Interior"]
+        },
+        {
+            "name": "(Lv 87) Dunesea Marcellus",
+            "region": "Fornis Region - Full",
+            "requires": "|Progressive Level Cap:15|",
+            "category": ["Fornis Region - Full"]
+        },
+        {
+            "name": "(Lv 88) Immovable Gonzalez",
+            "region": "Pentelas Region - Full",
+            "requires": "|Progressive Level Cap:15|",
+            "category": ["Pentelas Region - Full"]
+        },
+        {
+            "name": "(Lv 90) Heavenrazor Egreet",
+            "region": "Swordmarch - Great Sword",
+            "requires": "|Progressive Level Cap:15|",
+            "category": ["Swordmarch - Great Sword"]
+        },
+        {
+            "name": "(Lv 91) Obliterator Centaurion",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:16|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 95) Kilocorn Grandeps",
+            "region": "Superboss",
+            "requires": "|Progressive Level Cap:16|",
+            "category": ["Superboss"]
+        },
+        {
+            "name": "(Lv 96) Gorgeous Mandora",
+            "region": "Pentelas Region - Low Maktha Wildwood",
+            "requires": "|Progressive Level Cap:17|",
+            "category": ["Pentelas Region - Low Maktha Wildwood"]
+        },
+        {
+            "name": "(Lv 100) Perilwing Ryuho",
+            "region": "Superboss",
+            "requires": "|Progressive Level Cap:17|",
+            "category": ["Superboss"]
+        },
+        {
+            "name": "(Lv 102) The King Kings",
+            "region": "Cadensia Region - Full",
+            "requires": "|Progressive Level Cap:18|",
+            "category": ["Cadensia Region - Full"]
+        },
+        {
+            "name": "(Lv 105) Dreadwyrm Nizoont",
+            "region": "Superboss",
+            "requires": "|Progressive Level Cap:18|",
+            "category": ["Superboss"]
+        },
+        {
+            "name": "(Lv 110) Levialord Empireo",
+            "region": "Superboss",
+            "requires": "|Progressive Level Cap:18|",
+            "category": ["Superboss"]
+        },
+        {
+            "name": "(Lv 120) Seraphic Ceratinia",
+            "region": "Superboss",
+            "requires": "|Progressive Level Cap:18|",
+            "victory": true,
+            "category": ["Superboss"]
+        },
+        {
+            "name": "(Lv 99) The Four Devas",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:18|",
+            "victory": true,
+            "category": ["Superboss", "Time Attack"]
+        },{
+            "name": "(Lv 20) Defenders' Gut-Check",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:2|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 20) Defenders' Gut-Check (S-Rank)",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:2|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 20) Insecticide",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:2|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 20) Insecticide (S-Rank)",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:2|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 20) Philharmonic Dust-Up",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:2|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 20) Philharmonic Dust-Up (S-Rank)",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:2|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 30) Six Angry Beasts",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:4|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 30) Six Angry Beasts (S-Rank)",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:4|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 40) Vampiric Rush",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:6|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 40) Vampiric Rush (S-Rank)",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:6|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 40) Black Castle Chosen",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:6|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 40) Black Castle Chosen (S-Rank)",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:6|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 50) Ocean Day Parade",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:8|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 50) Ocean Day Parade (S-Rank)",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:8|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 50) Pretty Fierce",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:8|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 50) Pretty Fierce (S-Rank)",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:8|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 60) Ouroboros Fever",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:10|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 60) Ouroboros Fever (S-Rank)",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:10|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 60) Ferron x Ferron",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:10|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 60) Ferron x Ferron (S-Rank)",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:10|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 70) Double Jeopardy",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:12|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 70) Double Jeopardy (S-Rank)",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:12|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 70) Arts and Crafts",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:12|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 70) Arts and Crafts (S-Rank)",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:12|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 70) Stage of Destiny",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:12|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 70) Stage of Destiny (S-Rank)",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:12|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 70) Men! Of! The Sea! IV",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:12| and |Classes - Row 4|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 70) Men! Of! The Sea! IV (S-Rank)",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:12| and |Classes - Row 4|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 99) N and M",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:18|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 99) N and M (S-Rank)",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:18|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 99) Primate Triumvirate",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:18|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 99) Primate Triumvirate (S-Rank)",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:18|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 99) Heroes Frontline",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:18|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 99) Heroes Frontline (S-Rank)",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:18|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 70) The Two Saviors",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:12|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "(Lv 70) The Two Saviors (S-Rank)",
+            "region": "Time Attack",
+            "requires": "|Progressive Level Cap:12|",
+            "category": ["Time Attack"]
+        },
+        {
+            "name": "Boss Level 10+",
+            "region": "Boss Level",
+            "category": ["Boss Level"],
+            "sort-key": "01"
+        },
+        {
+            "name": "Boss Level 20+",
+            "region": "Boss Level",
+            "requires": "|Progressive Level Cap:1|",
+            "category": ["Boss Level"],
+            "sort-key": "02"
+        },
+        {
+            "name": "Boss Level 30+",
+            "region": "Boss Level",
+            "requires": "|Progressive Level Cap:3|",
+            "category": ["Boss Level"],
+            "sort-key": "03"
+        },
+        {
+            "name": "Boss Level 40+",
+            "region": "Boss Level",
+            "requires": "|Progressive Level Cap:5|",
+            "category": ["Boss Level"],
+            "sort-key": "04"
+        },
+        {
+            "name": "Boss Level 50+",
+            "region": "Boss Level",
+            "requires": "|Progressive Level Cap:7|",
+            "category": ["Boss Level"],
+            "sort-key": "05"
+        },
+        {
+            "name": "Boss Level 60+",
+            "region": "Boss Level",
+            "requires": "|Progressive Level Cap:9|",
+            "category": ["Boss Level"],
+            "sort-key": "06"
+        },
+        {
+            "name": "Boss Level 70+",
+            "region": "Boss Level",
+            "requires": "|Progressive Level Cap:11|",
+            "category": ["Boss Level"],
+            "sort-key": "07"
+        },
+        {
+            "name": "Boss Level 80+",
+            "region": "Boss Level",
+            "requires": "|Progressive Level Cap:13|",
+            "category": ["Boss Level"],
+            "sort-key": "08"
+        },
+        {
+            "name": "Boss Level 90+",
+            "region": "Boss Level",
+            "requires": "|Progressive Level Cap:15|",
+            "category": ["Boss Level"],
+            "sort-key": "09"
+        },
+        {
+            "name": "Boss Level 100+",
+            "region": "Boss Level",
+            "requires": "|Progressive Level Cap:17|",
+            "category": ["Boss Level"],
+            "sort-key": "10"
+        },
+        {
+            "name": "Boss Level 110+",
+            "region": "Boss Level",
+            "requires": "|Progressive Level Cap:18|",
+            "category": ["Boss Level"],
+            "sort-key": "11"
+        }
+    ]
+}

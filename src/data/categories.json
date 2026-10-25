@@ -1,0 +1,64 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
+    "Level Caps": {
+        "description": "Progressive level cap unlocks (+5 increments, capped at 99)"
+    },
+    "Equipment": {
+        "description": "Acccessories, Gems, Master Skills, Master Arts"
+    },
+    "Mechanics": {
+        "description": "Special mechanics unlocks (Chain Attack, Interlink, Unlimited Sword, Heros)"
+    },
+    "Regions": {
+        "description": "Region access"
+    },
+    "Classes": {
+        "description": "Character class unlock items (non-progression gameplay options)"
+    },
+    "Superboss": {
+        "description": "Collection of superbosses that gate the Seraphic Ceratinia"
+    },
+    "Boss Level": {
+
+    },
+    "Aetia Region - Full": {
+
+    },
+    "Fornis Region - Full": {
+
+    },
+    "Fornis Region - Torus Hollow": {
+
+    },
+    "Pentelas Region - Full": {
+        
+    },
+    "Keves Castle Region - Syra Hovering Reefs": {
+
+    },
+    "Keves Castle Region - Castle": {
+
+    },
+    "Cadensia Region - Full": {
+
+    },
+    "Swordmarch - Great Sword": {
+
+    },
+    "Aetia Region - Upper": {
+
+    },
+    "Aetia Region - Elgares Depths": {
+
+    },
+    "Pentelas Region - Low Maktha Wildwood": {
+
+    },
+    "Origin - Interior": {
+
+    },
+    "Time Attack": {
+        
+    }
+}
+

@@ -1,0 +1,128 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "The End Objective",
+            "description": "How to End your Randomized playthrough. The Four Devas is only possible if Time Attack is enabled. This requires you to have the Expansion Pass.",
+            "aliases": {"easiest": 0},
+            "hidden": false
+        },
+        "death_link": {
+            "default": false
+        },
+        "filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage",
+            "values": {
+                "recommended": 20
+            }
+        }
+    },
+    "user": {
+        "exclude_fornis_region_full": {
+            "type": "Toggle",
+            "description": [
+                "Exlude locations in Fornis Region - Full",
+                "If a region is set to be excluded, they will be attempted in a specified order.",
+                "If too many locations would be removed by excluding the region then the region will remain included.",
+                "Later regions set to be excluded will still be attempted and may be excluded if they have fewer locations."
+            ],
+            "default": false,
+            "group": "Exclude Regions"
+        },
+        "exclude_fornis_region_torus_hollow": {
+            "type": "Toggle",
+            "description": [
+                "Exlude locations in Fornis Region - Torus Hollow"
+            ],
+            "default": false,
+            "group": "Exclude Regions"
+        },
+        "exclude_pentelas_region_full": {
+            "type": "Toggle",
+            "description": [
+                "Exlude locations in Pentelas Region - Full"
+            ],
+            "default": false,
+            "group": "Exclude Regions"
+        },
+        "exclude_keves_castle_region_syra_hovering_reefs": {
+            "type": "Toggle",
+            "description": [
+                "Exlude locations in Keves Castle Region - Syra Hovering Reefs"
+            ],
+            "default": false,
+            "group": "Exclude Regions"
+        },
+        "exclude_keves_castle_region_castle": {
+            "type": "Toggle",
+            "description": [
+                "Exlude locations in Keves Castle Region - Castle"
+            ],
+            "default": false,
+            "group": "Exclude Regions"
+        },
+        
+        "exclude_cadensia_region_full": {
+            "type": "Toggle",
+            "description": [
+                "Exlude locations in Cadensia Region - Full"
+            ],
+            "default": false,
+            "group": "Exclude Regions"
+        },
+        "exclude_swordmarch_great_sword": {
+            "type": "Toggle",
+            "description": [
+                "Exlude locations in Swordmarch - Great Sword"
+            ],
+            "default": false,
+            "group": "Exclude Regions"
+        },
+        "exclude_aetia_region_upper": {
+            "type": "Toggle",
+            "description": [
+                "Exlude locations in Aetia Region - Upper"
+            ],
+            "default": false,
+            "group": "Exclude Regions"
+        },
+        "exclude_aetia_elgares_depths": {
+            "type": "Toggle",
+            "description": [
+                "Exlude locations in Aetia Region - Elgares Depths"
+            ],
+            "default": false,
+            "group": "Exclude Regions"
+        },
+        "exclude_pentelas_region_low_maktha_wildwood": {
+            "type": "Toggle",
+            "description": [
+                "Exlude locations in Pentelas Region - Low Maktha Wildwood"
+            ],
+            "default": false,
+            "group": "Exclude Regions"
+        },
+        "exclude_origin_interior": {
+            "type": "Toggle",
+            "description": [
+                "Exlude locations in Origin - Interior"
+            ],
+            "default": false,
+            "group": "Exclude Regions"
+        },
+        "exclude_time_attack": {
+            "type": "Toggle",
+            "description": [
+                "Exlude locations in Time Attack Mode.",
+                "Time Attack requires the Expansion Pass to be purchased to play, set to true if you don't own the Expansion Pass.",
+                "This exclusion is prioritized over all others."
+            ],
+            "default": true,
+            "group": "Exclude Regions"
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+    "Boss Level": {
+        "starting": true
+    },
+    "Aetia Region - Full": {
+        "connects_to": ["Fornis Region - Full"],
+        "starting": true
+    },
+    "Fornis Region - Full": {
+        "connects_to": ["Fornis Region - Torus Hollow", "Pentelas Region - Full", "Time Attack"],
+        "requires": "|Fornis Region - Full|"
+    },
+    "Fornis Region - Torus Hollow": {
+        "requires": "|Fornis Region - Torus Hollow|"
+    },
+    "Pentelas Region - Full": {
+        "connects_to": ["Keves Castle Region - Syra Hovering Reefs", "Pentelas Region - Low Maktha Wildwood"],
+        "requires": "|Pentelas Region - Full|"
+    },
+    "Keves Castle Region - Syra Hovering Reefs": {
+        "connects_to": ["Keves Castle Region - Castle", "Cadensia Region - Full"],
+        "requires": "|Keves Castle Region - Syra Hovering Reefs|"
+    },
+    "Keves Castle Region - Castle": {
+        "requires": "|Keves Castle Region - Castle|"
+    },
+    "Cadensia Region - Full": {
+        "connects_to": ["Swordmarch - Great Sword", "Aetia Region - Upper", "Origin - Interior"],
+        "requires": "|Cadensia Region - Full|"
+    },
+    "Swordmarch - Great Sword": {
+        "requires": "|Swordmarch - Great Sword|"
+    },
+    "Aetia Region - Upper": {
+        "connects_to": ["Aetia Region - Elgares Depths"],
+        "requires": "|Aetia Region - Upper|"
+    },
+    "Aetia Region - Elgares Depths": {
+        "requires": "|Aetia Region - Elgares Depths|"
+    },
+    "Pentelas Region - Low Maktha Wildwood": {
+        "requires": "|Pentelas Region - Low Maktha Wildwood|"
+    },
+    "Origin - Interior": {
+        "requires": "|Origin - Interior|"
+    },
+    "Time Attack": {
+        "requires": "|Time Attack|",
+        "connects_to": []
+    },
+    "Superboss": {
+        "requires": "|Accessory Slot:3| and |Gem Slot:3| and |Master Skill Slot:3| and |Master Art Slot| and |Hero in Party| and |Chain Attack| and |Interlink|",
+        "starting": true
+    }
+}
+
